@@ -1,0 +1,42 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+game
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+cmake-build-*/
+
+# SFML Library (users should install separately)
+SFML-2.5.1/
+SFML-*.zip
+SFML-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# User data (personal test data)
+# Uncomment if you want to exclude personal data:
+# users.txt
+# friends.txt
+# leaderboard.txt
+# saves/*.sav
+
+# OS files
+.DS_Store
+Thumbs.db
