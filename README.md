@@ -204,9 +204,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Original Xonix game for inspiration
 - Course instructor and teaching assistants
 
-## 📧 Contact
-
-Project Link: [https://github.com/YOUR_USERNAME/xonix-game](https://github.com/Cyber-punk-69/xonix-game)
-
----
 
