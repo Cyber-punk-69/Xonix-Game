@@ -206,8 +206,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Project Link: [https://github.com/YOUR_USERNAME/xonix-game](https://github.com/YOUR_USERNAME/xonix-game)
+Project Link: [https://github.com/YOUR_USERNAME/xonix-game](https://github.com/Cyber-punk-69/xonix-game)
 
 ---
 
-**Note**: This is an educational project created as part of a Data Structures and Algorithms course.
